@@ -14,5 +14,6 @@ J'ai rapidement été attiré par le développement web 💨 je me suis dirigé 
 de **design** deux éléments qui m'intéressent **grandement.**
 
 ### 🔥My stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=milo-star&theme=dark&background=000000)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=milo-star&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=milo-star&layout=compact&theme=radical" />
 
