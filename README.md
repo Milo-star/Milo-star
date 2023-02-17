@@ -4,6 +4,8 @@ Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 
 ### Je vis à Charleroi en Belgique et je suis apprenti développeur web.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=milo-star&label=Profile%20views&color=0e75b6&style=flat" alt="milo-star" /> </p>
+
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/WvSjK3P8hqGA9AaUgt/giphy.gif"/>
 </p>
