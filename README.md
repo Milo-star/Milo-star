@@ -1,6 +1,6 @@
 Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
-### Bienvenue ```${tonNomEstIci.promis}```, je suis Milo Bonnet
+### Bienvenue ```${tonNomEstIci.promis}```, je suis Milo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milo-star&label=Profile%20views&color=0e75b6&style=flat" alt="milo-star" /> </p>
 
